@@ -1,0 +1,9 @@
+.footer__column_content_about {
+    margin-top: 48px;
+}
+
+@media screen and (min-width: 768px) {
+    .footer__column_content_about {
+        margin-top: 0;
+    }
+}
