@@ -11,7 +11,6 @@
 
 @media screen and (min-width: 1024px) {
     .lead__image {
-        margin-top: 56px;
         width: 100%;
     }
 }
